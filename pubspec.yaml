@@ -1,8 +1,8 @@
 name: fluttertoast
 description: Simple flutter plugin for displaying android toast and iOS alerts.
-version: 0.0.1
-author:
-homepage:
+version: 0.1.0
+author: BKSAPPS <spyderbibek22@gmail.com>
+homepage: https://github.com/spyderbibek/flutter_toast
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
